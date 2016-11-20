@@ -1,0 +1,42 @@
+remove:
+{
+	"classname" "trigger_teleport"
+	"targetname" "/.*jail.*/"
+}
+
+remove:
+{
+	"classname" "logic_auto"
+}
+
+remove:
+{
+	"classname" "logic_timer"
+}
+
+remove:
+{
+	"classname" "info_teleport_destination"
+	"targetname" "/.*jail.*/"
+}
+
+
+remove:
+{
+	"classname" "func_movelinear"
+}
+
+remove:
+{
+	"classname" "func_rotating"
+}
+
+remove:
+{
+	"classname" "func_tracktrain"
+}
+
+remove:
+{
+	"classname" "path_track"
+}
